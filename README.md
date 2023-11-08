@@ -1,4 +1,4 @@
-# Site-teste-chuva
+# Sobre o projeto 
 Projeto feito em HTML e CSS para o teste técnico do estágio em front-end da chuva inc em 2022, o objetivo era replicar o protótipo da interface web proposta por eles.
 
 # Situação do projeto
